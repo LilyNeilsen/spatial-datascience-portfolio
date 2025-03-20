@@ -2,7 +2,7 @@
 This is a portfolio of my data analyses and maps using ArcGIS Pro (Spring 2025)
 
 # About Me 
-
+I am a second year graduate student at Carnegie Mellon University. I hope to begin working in Pittsburgh, Pennsylvania upon graduation. 
 
 
 # What I hope to learn
