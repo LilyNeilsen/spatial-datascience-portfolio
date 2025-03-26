@@ -10,4 +10,10 @@ I used [Canva's Color Generator](https://www.canva.com/colors/color-palette-gene
 
 Here is the map that I created using the color palette above: 
 
+# 1 - Zoomed out view of Pittsburgh
 ![Pittsburgh](pghmap-ss.png)
+
+
+# 2 - Zoomed in view of Millvale, Pennsylvania (Location of New Sun Rising)
+![Millvale](millvalemap.png)
+
