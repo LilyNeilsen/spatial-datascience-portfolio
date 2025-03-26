@@ -2,7 +2,7 @@
 
 I created a custom Google Map for New Sun Rising (NSR), an intermediary non-profit in Millvale, Pennsylvania. I actually work for NSR now, but since they have maps already, I created this for fun. 
 
-Here is the color palette that I used to create this map:
+I used [Canva's Color Generator](https://www.canva.com/colors/color-palette-generator/) to create a color paltette for the map I wanted to create. Here is the color palette that I used to create this map:
 
 ![Map with color palette](map-ss.png)
 
