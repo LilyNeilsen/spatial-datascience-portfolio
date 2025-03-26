@@ -17,3 +17,6 @@ Here is the map that I created using the color palette above:
 # 2 - Zoomed in view of Millvale, Pennsylvania (Location of New Sun Rising)
 ![Millvale](millvalemap.png)
 
+# 3 - View of Frick and Schenley Park in Pittsburgh
+
+![Parks](Parks.png)
