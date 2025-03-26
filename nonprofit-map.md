@@ -8,5 +8,5 @@ Here is the color palette that I used to create this map:
 
 Here is the map that I created using the color palette above: 
 
-(map-ss.png)
+![Map with color palette](map-ss.png)
 
