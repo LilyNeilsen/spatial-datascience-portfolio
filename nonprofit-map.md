@@ -19,4 +19,4 @@ Here is the map that I created using the color palette above:
 
 # 3 - View of Frick and Schenley Park in Pittsburgh
 
-![Parks](Parks.png)
+![Parks](parks.png)
