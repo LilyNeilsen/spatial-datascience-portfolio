@@ -37,7 +37,7 @@ Here is a lookup table that references relevant features and their coresponding 
 
 Here is the map that I created using the color palette above: 
 
-Access the map's JSON code [here](map.json)
+Access and download the map's JSON file [here](map.json)
 
 
 # 1 - Zoomed out view of Pittsburgh
@@ -50,3 +50,6 @@ Access the map's JSON code [here](map.json)
 # 3 - View of Frick and Schenley Park in Pittsburgh
 
 ![Parks](parks.png)
+
+
+# Instructions for 
