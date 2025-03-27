@@ -23,10 +23,10 @@ Here is a lookup table that references relevant features and their coresponding 
 | Transit      | Labels/Text fill  |     #000000        |
 | Transit/Line | Labels/Text fill  |     #000000        |
 | Transit/Station  | Labels/Text fill  |     #000000    |
-| Road        |  Geometry         |     #F2F2F2        |
-| Road/Highway|  Geometry         |     #FAE3D1        |
-| Road/Highway|  Stroke           |     #FAE3D1        |
-| Road/Highway|  Label/Text fill  |     #000000        |
+| Road        |  Geometry         |     #F2F2F2         |
+| Road/Highway|  Geometry         |     #FAE3D1         |
+| Road/Highway|  Stroke           |     #FAE3D1         |
+| Road/Highway|  Label/Text fill  |     #000000         |
 | Water       |  Geometry        |      #FAE3D1         |
 | Water       |  Label/Text fill |      #000000         |
 
