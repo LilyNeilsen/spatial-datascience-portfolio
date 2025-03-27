@@ -52,4 +52,5 @@ Access and download the map's JSON file [here](map.json)
 ![Parks](parks.png)
 
 
-# Instructions for 
+
+# Next Step: Developing an interactive map using the Google API 
