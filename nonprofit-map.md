@@ -2,7 +2,7 @@
 
 I created a custom Google Map for New Sun Rising (NSR), an intermediary non-profit in Millvale, Pennsylvania. I actually work for NSR now, but since they have maps already, I created this for fun. 
 
-I used [Canva's Color Generator](https://www.canva.com/colors/color-palette-generator/) to create a color paltette for the map I wanted to create. Here is the color palette that I used to create this map:
+I used [Canva's Color Generator](https://www.canva.com/colors/color-palette-generator/) to create a color paltette for the map I wanted to create. In addition to the color palette provided below, I added an off-white color with HEX code #F2F2F2. Here is the color palette that I used to create this map:
 
 ![Map with color palette](map-ss.png)
 
@@ -10,9 +10,23 @@ Here is a lookup table that references relevant features and their coresponding 
 | Feature Type | Element Type | Color from palette (HEX code) |
 |--------------|-------------------|--------------------|
 | All          | Labels/Text fill  |     #000000        |
-| All       | Geometry          | #EC883D
-| Frankenstein | fish         |asdfasdfasdf
-|
+| All          | Geometry          |     #EC883D        |
+| Country      | Stroke            |     #FAE3D1        |
+| Province     | Stroke            |     #FAE3D1        | 
+| Land Parcel  | Lables/Text fill  |     #000000        |                    
+| Landscape    | Stroke            |     #F2F2F2        |
+| Natural      | Geometry          |     #F4C694        |
+| Points of Interest (POI)| Labels/Text fill | #000000       |
+| POI Park     | Fill              |     #F2F2F2        |
+| POI Park     | Labels/Text fill  |     #000000        |
+| Transit      | Labels/Text fill  |     #000000        |
+| Transit/Line | Labels/Text fill  |     #000000        |
+| Transit/Station  | Labels/Text fill  |     #000000    |
+| Road        |  Geometry         |     #FAE3D1        |
+| Road/Highway|  Geometry         |     #FAE3D1        |
+| Water        |  Geometry         |     #FAE3D1        |
+
+
 
 
 
