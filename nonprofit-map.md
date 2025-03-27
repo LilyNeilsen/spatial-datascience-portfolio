@@ -1,6 +1,6 @@
 # Building a map for a non-profit organization
 
-I created a custom Google Map for New Sun Rising (NSR), an intermediary non-profit in Millvale, Pennsylvania. I actually work for NSR now, but since they have maps already, I created this for fun. 
+I created a custom Google Map for New Sun Rising (NSR), an intermediary non-profit in Millvale, Pennsylvania. I actually work for NSR now, but since they have maps already, I created this for fun. [Here](https://docs.google.com/document/d/1HbKzIMSCzOUv8-vX3oL8kaNcIB31RyMy9U5IzevRiEI/edit?usp=sharing) is the one-page bid for the initial estimate for Phase 1 requirements
 
 I used [Canva's Color Generator](https://www.canva.com/colors/color-palette-generator/) to create a color paltette for the map I wanted to create. In addition to the color palette provided below, I added an off-white color with HEX code #F2F2F2. Here is the color palette that I used to create this map:
 
