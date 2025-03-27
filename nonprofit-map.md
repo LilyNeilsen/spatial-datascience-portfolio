@@ -6,6 +6,13 @@ I used [Canva's Color Generator](https://www.canva.com/colors/color-palette-gene
 
 ![Map with color palette](map-ss.png)
 
+Here is a lookup table that references relevant features and their coresponding colors on the maps below: 
+| Name         | Type of pet |
+|--------------|-------------|
+| Eli          | cat         |
+| Howard       | dog         | 
+| Frankenstein | fish        |
+
 
 
 Here is the map that I created using the color palette above: 
