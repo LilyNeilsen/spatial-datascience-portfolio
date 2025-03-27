@@ -7,7 +7,7 @@ I used [Canva's Color Generator](https://www.canva.com/colors/color-palette-gene
 ![Map with color palette](map-ss.png)
 
 Here is a lookup table that references relevant features and their coresponding colors on the maps below: 
-| Map Feature  | Color from palette |
+| Feature Type | Element Type | Color rom palette
 |--------------|--------------------|
 | Eli          | cat         |
 | Howard       | dog         | 
