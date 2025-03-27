@@ -7,8 +7,8 @@ I used [Canva's Color Generator](https://www.canva.com/colors/color-palette-gene
 ![Map with color palette](map-ss.png)
 
 Here is a lookup table that references relevant features and their coresponding colors on the maps below: 
-| Name         | Type of pet |
-|--------------|-------------|
+| Map Feature  | Color from palette |
+|--------------|--------------------|
 | Eli          | cat         |
 | Howard       | dog         | 
 | Frankenstein | fish        |
